@@ -1,0 +1,13 @@
+2018-09-19 10:12:57 System: Socket Resource id #6 created.
+2018-09-19 10:12:57 System: Socket bound to 127.0.0.1:8080.
+2018-09-19 10:12:57 System: Start listening on Socket.
+2018-09-19 10:12:59 WebSocket: Resource id #7 CONNECTED!
+2018-09-19 10:12:59 WebSocket: Done handshaking...
+2018-09-19 10:12:59 WebSocket: 
+2018-09-19 10:12:59 WebSocket: Loged in as: sdgfsdgdf
+2018-09-19 10:13:08 WebSocket: Resource id #8 CONNECTED!
+2018-09-19 10:13:08 WebSocket: Done handshaking...
+2018-09-19 10:13:08 WebSocket: 
+2018-09-19 10:13:08 WebSocket: Loged in as: tytytytyt
+2018-09-19 10:13:38 WebSocket: Resource id #8 disconnected!
+2018-09-19 10:13:39 WebSocket: Resource id #7 disconnected!
